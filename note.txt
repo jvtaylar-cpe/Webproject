@@ -1,0 +1,35 @@
+1. Using the Boilerplate.
+2. Character set
+- Displaying special characters:
+    &lt;
+    &gt;
+    &copy;
+    <p>lorem50</p>
+    &nbsp;
+
+3. Heading List
+    <h1>HTML Lessons</h1>
+    <h2>For beginner and experts</h2>
+    <p>This is a great lesson for all</p>
+    <h3>CSS Lessons</h3>
+    <h4>Styling in Web pages</h4>
+
+4. Referencing 
+    <<a href="/index.html">Home Page</a>
+    <a href="/company/aboutme.html">About Me</a>
+    <a href="#section-css">CSS</a>
+    <a href="HTTP://google.com" target="_blank">Google</a>
+    <a href="mailto:jvtaylar@gmail.com">Email me</a>
+
+    Go to section
+    <h2 id="section-css">CSS</h2>
+    <a href="#">Go to Top</a>
+
+5. Embedding images
+ - use of alternative text 
+ 
+unsplash.com 
+
+
+
+
